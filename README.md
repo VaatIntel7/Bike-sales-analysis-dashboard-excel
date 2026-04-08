@@ -39,18 +39,6 @@ Built from raw sales data, this project showcases my ability to transform comple
 - Data summarization, formatting, and conditional styling
 - Building actionable business intelligence reports
 
-##Files Included
-
-- `Bike_Sales_Dashboard.xlsx` → Main interactive Excel file (recommended)
-- Raw dataset (if provided)
-
-##How to Use the Dashboard
-
-1. Download and open the `.xlsx` file in Microsoft Excel (2016 or newer recommended)
-2. Use the slicers on the right panel and timeline at the top to filter data
-3. All charts and tables update automatically in real-time
-4. Reset filters using the clear button on each slicer
-
 ##What I Learned
 
 As my **first major Excel project**, this dashboard helped me develop strong skills in:
