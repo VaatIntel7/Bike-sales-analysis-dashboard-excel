@@ -1,10 +1,7 @@
 # Bike-sales-analysis-dashboard-excel
 Interactive Bike Sales Dashboard Built In Microsoft Excel.Features Dynamic PivotTables,PivotCharts,Slicers and Timeline for analyzing profit by customer age group, gender, state and bike sub-category(Mountain Bikes & Road Bikes).My first Excel data analysis project. 
 
-
-# Bike Sales Performance Dashboard | Excel Project
-
-##Project Overview
+##The Project Overview 
 
 This is my **first Excel project** — an interactive **Bike Sales Dashboard** designed to analyze and visualize sales performance. The dashboard delivers clear business insights into profit trends across different customer segments, product categories, and time periods.
 
